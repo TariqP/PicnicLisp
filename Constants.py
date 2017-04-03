@@ -1,0 +1,7 @@
+EQ_FORM = "eq?"
+DEF_FORM = "define"
+ATOM_FORM = "atom?"
+QUOTE_FORM = "quote"
+CONS_FORM = "cons"
+CAR_FORM = "car"
+CDR_FORM = "cdr"
