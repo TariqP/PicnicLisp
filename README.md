@@ -19,7 +19,9 @@ To start up the interpreter: python main.py
 Here are some examples of Lisp input and output from the interpreter:
 
 Input: (eq? 1 2) Output: False
+
 Input: (+ 1 2) Output: 3
+
 Input: (define box 5) Output: Ok
 
 For more code examples please see the Tests.py file.
